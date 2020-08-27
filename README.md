@@ -1,6 +1,7 @@
 # wisdom_main
 
-A new Flutter application.
+A basic Quotes app. This is a stateful widget app made using Flutter, it also makes use of Scaffold, Expanded, Divided, Spacer, Padding etc. functions along with
+the OOP Concepts of Flutter.
 
 ## Getting Started
 
